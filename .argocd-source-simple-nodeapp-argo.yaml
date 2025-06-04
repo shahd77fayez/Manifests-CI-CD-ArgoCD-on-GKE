@@ -4,5 +4,5 @@ helm:
     value: shahdfayez06/simple-node-app
     forcestring: true
   - name: image.tag
-    value: "1.0"
+    value: "1.1"
     forcestring: true
